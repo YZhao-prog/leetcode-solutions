@@ -1,22 +1,25 @@
 class Solution {
 private:
-    map<char, string> m{{'2', "abc"}, {'3', "def"}, {'4', "ghi"}, {'5', "jkl"}, {'6', "mno"}, {'7', "pqrs"}, {'8', "tuv"}, {'9', "wxyz"}};
+    static constexpr string MAPPING[10] = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 public:
     vector<string> letterCombinations(string digits) {
+        int n = digits.length();
+        if (n == 0) {
+            return {};
+        }
         vector<string> ans;
-        int n = digits.size();
-        auto dfs = [&](this auto&& dfs, string str, int i) {
+        string path(n, 0);
+        auto dfs = [&](this auto&& dfs, int i) {
             if (i == n) {
-                ans.push_back(str);
+                ans.emplace_back(path);
                 return;
             }
-            for (int j = 0; j < m[digits[i]].size(); j++) {
-                str += m[digits[i]][j];
-                dfs(str, i + 1);
-                str.pop_back();
+            for (char c: MAPPING[digits[i] - '0']) {
+                path[i] = c;
+                dfs(i + 1);
             }
         };
-        dfs("", 0);
+        dfs(0);
         return ans;
     }
 };
