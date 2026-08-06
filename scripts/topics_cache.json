@@ -372,13 +372,6 @@
    "Recursion"
   ]
  },
- "reverse-linked-list": {
-  "difficulty": "Easy",
-  "topics": [
-   "Linked List",
-   "Recursion"
-  ]
- },
  "reverse-linked-list-ii": {
   "difficulty": "Medium",
   "topics": [
