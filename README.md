@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**61 problems solved** — 58 in Go, 5 in C++  
-19 Easy · 38 Medium · 4 Hard
+**62 problems solved** — 58 in Go, 6 in C++  
+19 Easy · 39 Medium · 4 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -49,13 +49,13 @@ a solution file per language:
 | Depth-First Search | 26 | Go |
 | Linked List | 19 | Go |
 | Breadth-First Search | 18 | Go |
-| Array | 11 | C++, Go |
+| Array | 12 | C++, Go |
 | Binary Search | 8 | Go |
 | Two Pointers | 8 | Go |
 | Binary Search Tree | 7 | Go |
 | Hash Table | 7 | C++, Go |
+| Backtracking | 6 | C++, Go |
 | Recursion | 6 | Go |
-| Backtracking | 5 | C++, Go |
 | Stack | 5 | Go |
 | Binary Lifting | 3 | Go |
 | Lowest Common Ancestor | 3 | Go |

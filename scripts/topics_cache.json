@@ -327,6 +327,13 @@
    "Binary Tree"
   ]
  },
+ "permutations": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Backtracking"
+  ]
+ },
  "range-sum-of-bst": {
   "difficulty": "Easy",
   "topics": [
