@@ -70,6 +70,13 @@ def fetch(slug):
             "topics": [t["name"] for t in q["topicTags"]]}
 
 
+def save_cache(cache):
+    os.makedirs(os.path.dirname(CACHE), exist_ok=True)
+    with open(CACHE, "w", encoding="utf-8") as fh:
+        json.dump(cache, fh, indent=1, sort_keys=True)
+        fh.write("\n")
+
+
 def main():
     check_only = "--check" in sys.argv
     cache = load_cache()
@@ -78,15 +85,22 @@ def main():
     missing = [d for d in dirs if d[5:] not in cache]
     if missing:
         print(f"fetching {len(missing)} new problem(s) from LeetCode...")
+    fetched = 0
     for i, d in enumerate(missing):
         slug = d[5:]
         try:
             cache[slug] = fetch(slug)
+            fetched += 1
             print(f"  + {slug}: {', '.join(cache[slug]['topics']) or '(no tags)'}")
         except (urllib.error.URLError, ValueError, KeyError, TimeoutError) as e:
             print(f"  ! {slug}: skipped ({e})", file=sys.stderr)
         if i < len(missing) - 1:
             time.sleep(1)  # be polite to the API
+
+    # Persist newly fetched tags even when the table itself is unchanged,
+    # otherwise those problems get re-fetched on every future run.
+    if fetched and not check_only:
+        save_cache(cache)
 
     # A problem carries several LeetCode tags and belongs under all of them,
     # so counts here overlap by design and deliberately do not sum to the total.
@@ -147,10 +161,7 @@ def main():
 
     with open(README, "w", encoding="utf-8") as fh:
         fh.write(new)
-    os.makedirs(os.path.dirname(CACHE), exist_ok=True)
-    with open(CACHE, "w", encoding="utf-8") as fh:
-        json.dump(cache, fh, indent=1, sort_keys=True)
-        fh.write("\n")
+    save_cache(cache)
     print(f"README.md updated ({len(dirs)} problems, {len(rows)} topics)")
     return 0
 
