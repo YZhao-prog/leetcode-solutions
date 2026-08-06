@@ -8,7 +8,8 @@ public:
                 ans.emplace_back(path);
                 return;
             }
-            for (int j = i; j <= n; j++) {
+            // [x. x + 1, ...n] n - x + 1 >= k - path.size()
+            for (int j = i; j <= n + 1 - k + path.size(); j++) {
                 path.push_back(j);
                 dfs(j + 1);
                 path.pop_back();
