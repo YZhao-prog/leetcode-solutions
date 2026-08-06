@@ -70,6 +70,26 @@ def fetch(slug):
             "topics": [t["name"] for t in q["topicTags"]]}
 
 
+# LeetHub writes "undefined" into its own index when it cannot read a
+# problem's difficulty. We already hold the real value, so patch those cells
+# on every run -- LeetHub keeps reintroducing them as new problems sync.
+LEETHUB_ROW = re.compile(
+    r"^(\|\s*\[(\d{4}-[a-z0-9-]+)\]\([^)]*\)\s*\|\s*)undefined(\s*\|)\s*$", re.M)
+
+
+def repair_leethub_difficulties(text, cache):
+    fixed = [0]
+
+    def sub(m):
+        info = cache.get(m.group(2)[5:])
+        if not info or not info.get("difficulty"):
+            return m.group(0)
+        fixed[0] += 1
+        return f"{m.group(1)}{info['difficulty']}{m.group(3)}"
+
+    return LEETHUB_ROW.sub(sub, text), fixed[0]
+
+
 def save_cache(cache):
     os.makedirs(os.path.dirname(CACHE), exist_ok=True)
     with open(CACHE, "w", encoding="utf-8") as fh:
@@ -151,6 +171,10 @@ def main():
     else:
         print("markers not found in README.md", file=sys.stderr)
         return 1
+
+    new, repaired = repair_leethub_difficulties(new, cache)
+    if repaired:
+        print(f"repaired {repaired} 'undefined' difficulty cell(s) in the LeetHub index")
 
     if new == text:
         print("README.md already up to date")
