@@ -1,0 +1,47 @@
+name: Update README topics
+
+# LeetHub pushes a commit for every accepted submission. This regenerates the
+# Topics Covered table so new problems classify themselves.
+#
+# The commit below is made with GITHUB_TOKEN, and GitHub deliberately does not
+# start new workflow runs from such pushes, so this cannot loop.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# LeetHub often pushes several commits in a row; only the newest needs to run.
+concurrency:
+  group: update-topics
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Regenerate topics table
+        run: python3 scripts/update_topics.py
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain README.md scripts/topics_cache.json)" ]; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md scripts/topics_cache.json
+          git commit -m "Update README topics table"
+          # LeetHub may have pushed again while this ran; rebase before pushing.
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
