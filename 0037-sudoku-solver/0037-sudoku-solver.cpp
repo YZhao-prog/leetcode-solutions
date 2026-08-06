@@ -1,9 +1,9 @@
 class Solution {
 public:
     void solveSudoku(vector<vector<char>>& board) {
-        unordered_map<int, unordered_map<int, int>> row;
-        unordered_map<int, unordered_map<int, int>> col;
-        unordered_map<int, unordered_map<int, unordered_map<int, int>>> grid;
+        bool row[9][10] = {};
+        bool col[9][10] = {};
+        bool grid[3][3][10] = {};
         int n = board.size();
         for (int i = 0; i < n; i++) {
             int m = board[i].size();
@@ -16,9 +16,7 @@ public:
             }
         }
         auto dfs = [&](this auto&& dfs, int pos) -> bool {
-            if (pos == 81) {
-                return true;
-            }
+            if (pos == 81) return true;
             int x = pos / 9, y = pos % 9;
             if (board[x][y] != '.') return dfs(pos + 1);
             for (int i = 1; i <= 9; i++) {
