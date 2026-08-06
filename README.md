@@ -63,10 +63,8 @@ a solution file per language:
 | Floyd's Cycle Finding Algorithm | 2 | Go |
 | Math | 2 | Go |
 | String | 2 | C++, Go |
-| Algorithm X | 1 | C++ |
 | Bit Manipulation | 1 | C++, Go |
 | DP on Trees | 1 | Go |
-| Dancing Links | 1 | C++ |
 | Dynamic Programming | 1 | C++ |
 | Sorting | 1 | Go |
 
@@ -169,18 +167,6 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
-## X 算法
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
-## Dancing Links
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
-## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
