@@ -334,6 +334,14 @@
    "Backtracking"
   ]
  },
+ "permutations-ii": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Backtracking",
+   "Sorting"
+  ]
+ },
  "range-sum-of-bst": {
   "difficulty": "Easy",
   "topics": [
