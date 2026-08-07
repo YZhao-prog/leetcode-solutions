@@ -4,7 +4,6 @@ public:
         vector<vector<int>> ans;
         vector<int> path;
         int n = candidates.size();
-        vector<int> used(n);
         ranges::sort(candidates);
         auto dfs = [&](this auto&& dfs, int i, int sum) {
             if (sum > target) return;
@@ -13,11 +12,9 @@ public:
                 return;
             }
             for (int j = i; j < n; j++) {
-                if (j > 0 && candidates[j] == candidates[j - 1] && !used[j - 1]) continue;
+                if (j > i && candidates[j] == candidates[j - 1]) continue;
                 path.emplace_back(candidates[j]);
-                used[j] = true;
                 dfs(j + 1, sum + candidates[j]);
-                used[j] = false;
                 path.pop_back();
             }
         };
