@@ -11,8 +11,10 @@ public:
                 ans.emplace_back(path);
                 return;
             }
+            int prev = INT_MAX;
             for (int j = 0; j < n; j++) {
-                if (used[j] || (j != 0 && nums[j] == nums[j - 1] && !used[j - 1])) continue;
+                if (used[j] || (nums[j] == prev)) continue;
+                prev = nums[j];
                 path.emplace_back(nums[j]);
                 used[j] = true;
                 dfs(i + 1);
