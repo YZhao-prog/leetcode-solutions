@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**63 problems solved** — 58 in Go, 7 in C++  
-19 Easy · 40 Medium · 4 Hard
+**64 problems solved** — 58 in Go, 8 in C++  
+19 Easy · 41 Medium · 4 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -49,10 +49,10 @@ a solution file per language:
 | Depth-First Search | 26 | Go |
 | Linked List | 19 | Go |
 | Breadth-First Search | 18 | Go |
-| Array | 13 | C++, Go |
+| Array | 14 | C++, Go |
+| Backtracking | 8 | C++, Go |
 | Binary Search | 8 | Go |
 | Two Pointers | 8 | Go |
-| Backtracking | 7 | C++, Go |
 | Binary Search Tree | 7 | Go |
 | Hash Table | 7 | C++, Go |
 | Recursion | 6 | Go |
@@ -148,7 +148,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
-| [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | undefined |
+| [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0077-combinations/) | Medium |
@@ -162,7 +162,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
-| [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | undefined |
+| [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
