@@ -152,6 +152,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | undefined |
 | [0077-combinations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -167,6 +168,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | undefined |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -180,4 +182,8 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+## X 算法
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | undefined |
 <!---LeetCode Topics End-->
