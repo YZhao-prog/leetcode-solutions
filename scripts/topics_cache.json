@@ -315,6 +315,14 @@
    "Binary Tree"
   ]
  },
+ "n-queens": {
+  "difficulty": "Hard",
+  "topics": [
+   "Array",
+   "Backtracking",
+   "Algorithm X"
+  ]
+ },
  "palindrome-linked-list": {
   "difficulty": "Easy",
   "topics": [

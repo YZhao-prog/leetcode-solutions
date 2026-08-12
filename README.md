@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**65 problems solved** — 58 in Go, 9 in C++  
-19 Easy · 42 Medium · 4 Hard
+**66 problems solved** — 58 in Go, 10 in C++  
+19 Easy · 42 Medium · 5 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -49,8 +49,8 @@ a solution file per language:
 | Depth-First Search | 26 | Go |
 | Linked List | 19 | Go |
 | Breadth-First Search | 18 | Go |
-| Array | 15 | C++, Go |
-| Backtracking | 9 | C++, Go |
+| Array | 16 | C++, Go |
+| Backtracking | 10 | C++, Go |
 | Binary Search | 8 | Go |
 | Two Pointers | 8 | Go |
 | Binary Search Tree | 7 | Go |
@@ -152,7 +152,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
-| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | undefined |
+| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -168,7 +168,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
-| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | undefined |
+| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -182,8 +182,4 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
-## X 算法
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | undefined |
 <!---LeetCode Topics End-->
