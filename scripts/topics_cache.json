@@ -87,6 +87,14 @@
    "Backtracking"
   ]
  },
+ "container-with-most-water": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Two Pointers",
+   "Greedy"
+  ]
+ },
  "count-good-nodes-in-binary-tree": {
   "difficulty": "Medium",
   "topics": [
