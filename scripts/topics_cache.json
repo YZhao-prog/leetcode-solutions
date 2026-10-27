@@ -331,6 +331,15 @@
    "Binary Tree"
   ]
  },
+ "minimum-size-subarray-sum": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Binary Search",
+   "Sliding Window",
+   "Prefix Sum"
+  ]
+ },
  "n-queens": {
   "difficulty": "Hard",
   "topics": [
