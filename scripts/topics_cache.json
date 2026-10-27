@@ -529,6 +529,16 @@
    "Binary Tree"
   ]
  },
+ "trapping-rain-water": {
+  "difficulty": "Hard",
+  "topics": [
+   "Array",
+   "Two Pointers",
+   "Dynamic Programming",
+   "Stack",
+   "Monotonic Stack"
+  ]
+ },
  "univalued-binary-tree": {
   "difficulty": "Easy",
   "topics": [
