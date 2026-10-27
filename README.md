@@ -169,6 +169,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | undefined |
 | [0046-permutations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
@@ -176,6 +177,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -191,8 +193,17 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | undefined |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | undefined |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | undefined |
 <!---LeetCode Topics End-->
