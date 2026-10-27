@@ -10,12 +10,12 @@ public:
                 continue;
             }
             int j = i + 1, k = n - 1;
-            // if (x + nums[j] + nums[j + 1] > 0) {
-            //     break;
-            // }
-            // if (x + nums[k - 1] + nums[k] < 0) {
-            //     break;
-            // }
+            if (x + nums[j] + nums[j + 1] > 0) {
+                break;
+            }
+            if (x + nums[k - 1] + nums[k] < 0) {
+                continue;
+            }
             while (j < k) {
                 int sum = x + nums[j] + nums[k];
                 if (sum < 0) {
