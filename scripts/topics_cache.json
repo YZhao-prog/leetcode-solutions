@@ -1,4 +1,12 @@
 {
+ "3sum": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Two Pointers",
+   "Sorting"
+  ]
+ },
  "add-two-numbers-ii": {
   "difficulty": "Medium",
   "topics": [

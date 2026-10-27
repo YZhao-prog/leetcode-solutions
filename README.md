@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**66 problems solved** — 58 in Go, 10 in C++  
-19 Easy · 42 Medium · 5 Hard
+**67 problems solved** — 58 in Go, 11 in C++  
+19 Easy · 43 Medium · 5 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -49,10 +49,10 @@ a solution file per language:
 | Depth-First Search | 26 | Go |
 | Linked List | 19 | Go |
 | Breadth-First Search | 18 | Go |
-| Array | 16 | C++, Go |
+| Array | 17 | C++, Go |
 | Backtracking | 10 | C++, Go |
+| Two Pointers | 9 | C++, Go |
 | Binary Search | 8 | Go |
-| Two Pointers | 8 | Go |
 | Binary Search Tree | 7 | Go |
 | Hash Table | 7 | C++, Go |
 | Recursion | 6 | Go |
@@ -60,9 +60,9 @@ a solution file per language:
 | Binary Lifting | 3 | Go |
 | Lowest Common Ancestor | 3 | Go |
 | Matrix | 3 | C++, Go |
+| Sorting | 3 | C++, Go |
 | Floyd's Cycle Finding Algorithm | 2 | Go |
 | Math | 2 | Go |
-| Sorting | 2 | C++, Go |
 | String | 2 | C++, Go |
 | Bit Manipulation | 1 | C++, Go |
 | DP on Trees | 1 | Go |
@@ -163,7 +163,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | undefined |
+| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -182,10 +182,10 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | undefined |
+| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | undefined |
+| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
