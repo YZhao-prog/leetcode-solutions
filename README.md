@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**71 problems solved** — 58 in Go, 15 in C++  
-19 Easy · 46 Medium · 6 Hard
+**72 problems solved** — 58 in Go, 16 in C++  
+19 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -53,20 +53,20 @@ a solution file per language:
 | Two Pointers | 11 | C++, Go |
 | Backtracking | 10 | C++, Go |
 | Binary Search | 10 | C++, Go |
+| Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | Go |
-| Hash Table | 7 | C++, Go |
 | Recursion | 6 | Go |
 | Stack | 6 | C++, Go |
 | Binary Lifting | 3 | Go |
 | Lowest Common Ancestor | 3 | Go |
 | Matrix | 3 | C++, Go |
+| Sliding Window | 3 | C++ |
 | Sorting | 3 | C++, Go |
+| String | 3 | C++, Go |
 | Dynamic Programming | 2 | C++ |
 | Floyd's Cycle Finding Algorithm | 2 | Go |
 | Math | 2 | Go |
 | Prefix Sum | 2 | C++ |
-| Sliding Window | 2 | C++ |
-| String | 2 | C++, Go |
 | Bit Manipulation | 1 | C++, Go |
 | DP on Trees | 1 | Go |
 | Greedy | 1 | C++ |
@@ -140,13 +140,13 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Backtracking
@@ -226,7 +226,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->

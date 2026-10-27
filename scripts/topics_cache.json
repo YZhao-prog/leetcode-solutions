@@ -231,6 +231,14 @@
    "Floyd's Cycle Finding Algorithm"
   ]
  },
+ "longest-substring-without-repeating-characters": {
+  "difficulty": "Medium",
+  "topics": [
+   "Hash Table",
+   "String",
+   "Sliding Window"
+  ]
+ },
  "lowest-common-ancestor-of-a-binary-search-tree": {
   "difficulty": "Medium",
   "topics": [
