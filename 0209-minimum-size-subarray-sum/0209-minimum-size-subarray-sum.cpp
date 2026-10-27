@@ -7,14 +7,11 @@ public:
         int l = 0;
         for (int r = 0; r < nums.size(); r++) {
             s += nums[r];
-            while (s - nums[l] >= target) {
+            while (s >= target) {
+                ans = min(ans, r - l + 1);
                 s -= nums[l++];
             }
-            if (s >= target) {
-                ans = min(ans, r - l + 1);
-            }
         }
-        if (ans == INT_MAX) return 0;
-        return ans;
+        return ans <= n ? ans : 0;
     }
 };
