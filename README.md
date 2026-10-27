@@ -163,6 +163,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | undefined |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -181,5 +182,10 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | undefined |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | undefined |
 <!---LeetCode Topics End-->
