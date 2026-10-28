@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**72 problems solved** — 58 in Go, 16 in C++  
+**72 problems solved** — 58 in Go, 17 in C++  
 19 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -171,7 +171,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -217,7 +217,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
