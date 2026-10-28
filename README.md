@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**72 problems solved** — 58 in Go, 20 in C++  
+**72 problems solved** — 58 in Go, 21 in C++  
 19 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -48,14 +48,14 @@ a solution file per language:
 | Tree | 30 | Go |
 | Depth-First Search | 26 | Go |
 | Array | 21 | C++, Go |
-| Linked List | 19 | Go |
+| Linked List | 19 | C++, Go |
 | Breadth-First Search | 18 | Go |
 | Two Pointers | 11 | C++, Go |
 | Backtracking | 10 | C++, Go |
 | Binary Search | 10 | C++, Go |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | Go |
-| Recursion | 6 | Go |
+| Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
 | Binary Lifting | 3 | Go |
 | Lowest Common Ancestor | 3 | Go |
@@ -240,9 +240,9 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | undefined |
+| [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | undefined |
+| [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
