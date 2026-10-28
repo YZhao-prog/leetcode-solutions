@@ -144,6 +144,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +208,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -251,10 +253,12 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Floyd 判圈算法
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | undefined |
 <!---LeetCode Topics End-->
