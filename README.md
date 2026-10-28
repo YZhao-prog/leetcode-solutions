@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 24 in C++  
+**73 problems solved** — 58 in Go, 25 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -64,7 +64,7 @@ a solution file per language:
 | Sorting | 3 | C++, Go |
 | String | 3 | C++, Go |
 | Dynamic Programming | 2 | C++ |
-| Floyd's Cycle Finding Algorithm | 2 | Go |
+| Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Math | 2 | Go |
 | Prefix Sum | 2 | C++ |
 | Bit Manipulation | 1 | C++, Go |
@@ -143,7 +143,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
-| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | undefined |
+| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,7 +206,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
-| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | undefined |
+| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -250,11 +250,11 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
-| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | undefined |
+| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Floyd 判圈算法
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | undefined |
+| [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
