@@ -244,5 +244,6 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | undefined |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
