@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**72 problems solved** — 58 in Go, 23 in C++  
-19 Easy · 47 Medium · 6 Hard
+**73 problems solved** — 58 in Go, 24 in C++  
+20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -48,9 +48,9 @@ a solution file per language:
 | Tree | 30 | Go |
 | Depth-First Search | 26 | Go |
 | Array | 21 | C++, Go |
-| Linked List | 19 | C++, Go |
+| Linked List | 20 | C++, Go |
 | Breadth-First Search | 18 | Go |
-| Two Pointers | 11 | C++, Go |
+| Two Pointers | 12 | C++, Go |
 | Backtracking | 10 | C++, Go |
 | Binary Search | 10 | C++, Go |
 | Hash Table | 8 | C++, Go |
@@ -205,7 +205,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
-| [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | undefined |
+| [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,5 +249,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
-| [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | undefined |
+| [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
