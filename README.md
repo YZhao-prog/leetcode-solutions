@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 27 in C++  
+**73 problems solved** — 58 in Go, 28 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -259,7 +259,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
-| [0237-delete-node-in-a-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | undefined |
+| [0237-delete-node-in-a-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Floyd 判圈算法
 | Problem Name | Difficulty |
