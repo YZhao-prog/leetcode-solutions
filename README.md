@@ -271,4 +271,20 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 <!---LeetCode Topics End-->
