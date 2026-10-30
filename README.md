@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 32 in C++  
+**73 problems solved** — 58 in Go, 33 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -274,21 +274,21 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | undefined |
+| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | undefined |
+| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | undefined |
+| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | undefined |
+| [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
