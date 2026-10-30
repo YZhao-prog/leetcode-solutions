@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 29 in C++  
+**73 problems solved** — 58 in Go, 30 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -256,7 +256,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | undefined |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
