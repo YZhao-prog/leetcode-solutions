@@ -206,6 +206,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -253,6 +254,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
