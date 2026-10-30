@@ -39,17 +39,17 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 31 in C++  
+**73 problems solved** — 58 in Go, 32 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Binary Tree | 30 | Go |
-| Tree | 30 | Go |
-| Depth-First Search | 26 | Go |
+| Binary Tree | 30 | C++, Go |
+| Tree | 30 | C++, Go |
+| Depth-First Search | 26 | C++, Go |
 | Array | 21 | C++, Go |
 | Linked List | 20 | C++, Go |
-| Breadth-First Search | 18 | Go |
+| Breadth-First Search | 18 | C++, Go |
 | Two Pointers | 12 | C++, Go |
 | Backtracking | 10 | C++, Go |
 | Binary Search | 10 | C++, Go |
@@ -274,17 +274,17 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
