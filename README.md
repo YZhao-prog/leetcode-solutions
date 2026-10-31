@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 36 in C++  
+**73 problems solved** — 58 in Go, 37 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -54,7 +54,7 @@ a solution file per language:
 | Backtracking | 10 | C++, Go |
 | Binary Search | 10 | C++, Go |
 | Hash Table | 8 | C++, Go |
-| Binary Search Tree | 7 | Go |
+| Binary Search Tree | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
 | Binary Lifting | 3 | Go |
@@ -274,7 +274,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -283,7 +283,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -299,7 +299,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -308,5 +308,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
