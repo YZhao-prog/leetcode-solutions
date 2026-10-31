@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 40 in C++  
+**73 problems solved** — 58 in Go, 41 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -278,7 +278,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -301,7 +301,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
@@ -311,7 +311,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0100-same-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
