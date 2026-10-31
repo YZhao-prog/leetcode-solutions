@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 37 in C++  
+**73 problems solved** — 58 in Go, 38 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -57,8 +57,8 @@ a solution file per language:
 | Binary Search Tree | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
-| Binary Lifting | 3 | Go |
-| Lowest Common Ancestor | 3 | Go |
+| Binary Lifting | 3 | C++, Go |
+| Lowest Common Ancestor | 3 | C++, Go |
 | Matrix | 3 | C++, Go |
 | Sliding Window | 3 | C++ |
 | Sorting | 3 | C++, Go |
@@ -280,7 +280,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,7 +290,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,7 +307,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,9 +315,9 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## 最近公共祖先
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
