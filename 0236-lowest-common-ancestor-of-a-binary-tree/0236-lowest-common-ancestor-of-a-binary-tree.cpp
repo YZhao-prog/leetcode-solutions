@@ -14,7 +14,7 @@ public:
         auto left = lowestCommonAncestor(root->left, p, q);
         auto right = lowestCommonAncestor(root->right, p, q);
         if (left && right) return root;
-        if (left && !right) return left;
+        if (left) return left;
         return right;
     }
 };
