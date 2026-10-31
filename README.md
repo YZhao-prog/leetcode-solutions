@@ -280,6 +280,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -290,6 +291,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -307,17 +309,21 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 ## 最近公共祖先
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
