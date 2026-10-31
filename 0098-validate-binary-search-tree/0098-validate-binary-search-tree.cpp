@@ -12,14 +12,14 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        long pre = LONG_MIN;
-        auto check = [&](this auto&& check, TreeNode* node) -> bool {
+        auto check = [&](this auto&& check, TreeNode* node, long& pre) -> bool {
             if (!node) return true;
-            if (!check(node->left)) return false;
+            if (!check(node->left, pre)) return false;
             if (node->val <= pre) return false;
             pre = node->val;
-            return check(node->right);
+            return check(node->right, pre);
         };
-        return check(root);
+        long pre = LONG_MIN;
+        return check(root, pre);
     }
 };
