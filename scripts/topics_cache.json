@@ -81,6 +81,13 @@
    "Backtracking"
   ]
  },
+ "combination-sum-iii": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Backtracking"
+  ]
+ },
  "combinations": {
   "difficulty": "Medium",
   "topics": [

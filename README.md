@@ -39,19 +39,19 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 42 in C++  
-20 Easy · 47 Medium · 6 Hard
+**74 problems solved** — 58 in Go, 43 in C++  
+20 Easy · 48 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Binary Tree | 30 | C++, Go |
 | Tree | 30 | C++, Go |
 | Depth-First Search | 26 | C++, Go |
-| Array | 21 | C++, Go |
+| Array | 22 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 18 | C++, Go |
 | Two Pointers | 12 | C++, Go |
-| Backtracking | 10 | C++, Go |
+| Backtracking | 11 | C++, Go |
 | Binary Search | 10 | C++, Go |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
@@ -164,7 +164,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0077-combinations](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
-| [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | undefined |
+| [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,7 +187,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-| [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | undefined |
+| [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
