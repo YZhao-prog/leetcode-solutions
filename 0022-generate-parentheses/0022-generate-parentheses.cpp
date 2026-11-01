@@ -4,7 +4,7 @@ public:
         vector<string> ans;
         string path;
         auto dfs = [&](this auto&& dfs, int i, int left, int right) {
-            if (path.size() == 2 * n) {
+            if (i == 2 * n) {
                 ans.emplace_back(path);
                 return;
             }
