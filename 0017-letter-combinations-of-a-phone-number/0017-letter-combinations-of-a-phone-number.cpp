@@ -4,19 +4,17 @@ private:
 public:
     vector<string> letterCombinations(string digits) {
         int n = digits.length();
-        if (n == 0) {
-            return {};
-        }
         vector<string> ans;
-        string path(n, 0);
-        auto dfs = [&](this auto&& dfs, int i) {
+        string path;
+        auto dfs = [&](this auto&& dfs, int i) -> void {
             if (i == n) {
-                ans.emplace_back(path);
+                ans.push_back(path);
                 return;
             }
-            for (char c: MAPPING[digits[i] - '0']) {
-                path[i] = c;
+            for (int j = 0; j < MAPPING[digits[i] - '0'].size(); j++) {
+                path.push_back(MAPPING[digits[i] - '0'][j]);
                 dfs(i + 1);
+                path.pop_back();
             }
         };
         dfs(0);
