@@ -8,7 +8,10 @@ public:
                 ans.push_back(path);
                 return;
             }
-            if (i == n + 1) return;
+            // Pruning: not enough numbers remain
+            if (n - i + 1 < k - path.size()) {
+                return;
+            }
             for (int j = i; j <= n; j++) {
                 path.push_back(j);
                 dfs(j + 1);
