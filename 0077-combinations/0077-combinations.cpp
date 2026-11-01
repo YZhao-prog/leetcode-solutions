@@ -9,10 +9,11 @@ public:
                 return;
             }
             if (i == n + 1) return;
-            dfs(i + 1);
-            path.push_back(i);
-            dfs(i + 1);
-            path.pop_back();
+            for (int j = i; j <= n; j++) {
+                path.push_back(j);
+                dfs(j + 1);
+                path.pop_back();
+            }
         };
         dfs(1);
         return ans;
