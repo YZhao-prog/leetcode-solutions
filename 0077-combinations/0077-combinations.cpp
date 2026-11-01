@@ -5,15 +5,14 @@ public:
         vector<int> path;
         auto dfs = [&](this auto&& dfs, int i) {
             if (path.size() == k) {
-                ans.emplace_back(path);
+                ans.push_back(path);
                 return;
             }
-            // [x. x + 1, ...n] n - x + 1 >= k - path.size()
-            for (int j = i; j <= n + 1 - k + path.size(); j++) {
-                path.push_back(j);
-                dfs(j + 1);
-                path.pop_back();
-            }
+            if (i == n + 1) return;
+            dfs(i + 1);
+            path.push_back(i);
+            dfs(i + 1);
+            path.pop_back();
         };
         dfs(1);
         return ans;
