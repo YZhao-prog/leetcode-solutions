@@ -186,6 +186,15 @@
    "Binary Tree"
   ]
  },
+ "generate-parentheses": {
+  "difficulty": "Medium",
+  "topics": [
+   "String",
+   "Dynamic Programming",
+   "Backtracking",
+   "Bracket Sequences"
+  ]
+ },
  "insufficient-nodes-in-root-to-leaf-paths": {
   "difficulty": "Medium",
   "topics": [

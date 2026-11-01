@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**74 problems solved** — 58 in Go, 43 in C++  
-20 Easy · 48 Medium · 6 Hard
+**75 problems solved** — 58 in Go, 44 in C++  
+20 Easy · 49 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -50,24 +50,25 @@ a solution file per language:
 | Array | 22 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 18 | C++, Go |
+| Backtracking | 12 | C++, Go |
 | Two Pointers | 12 | C++, Go |
-| Backtracking | 11 | C++, Go |
 | Binary Search | 10 | C++, Go |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
+| String | 4 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
+| Dynamic Programming | 3 | C++ |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Matrix | 3 | C++, Go |
 | Sliding Window | 3 | C++ |
 | Sorting | 3 | C++, Go |
-| String | 3 | C++, Go |
-| Dynamic Programming | 2 | C++ |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Math | 2 | Go |
 | Prefix Sum | 2 | C++ |
 | Bit Manipulation | 1 | C++, Go |
+| Bracket Sequences | 1 | C++ |
 | DP on Trees | 1 | Go |
 | Greedy | 1 | C++ |
 | Monotonic Stack | 1 | C++ |
@@ -150,13 +151,13 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | undefined |
+| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | undefined |
+| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -194,7 +195,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | undefined |
+| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Matrix
@@ -344,5 +345,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## 括号序列
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | undefined |
+| [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
