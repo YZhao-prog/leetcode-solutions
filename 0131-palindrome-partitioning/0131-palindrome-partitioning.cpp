@@ -1,25 +1,28 @@
 class Solution {
 public:
-    vector<vector<string>> partition(string s) {
+    bool isPalindrome(const string& s) {
         int n = s.size();
+        int i = 0, j = n - 1;
+        while (i < j) {
+            if (s[i] != s[j]) return false;
+            ++i;
+            --j;
+        }
+        return true;
+    }
+    vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
+        int n = s.size();
         vector<string> path;
-        auto isPalindrome = [](string_view str, int i, int j) -> bool {
-            while (i < j) {
-                if (str[i++] != str[j--]) {
-                    return false;
-                }
-            }
-            return true;
-        };
         auto dfs = [&](this auto&& dfs, int i) {
             if (i == n) {
-                ans.emplace_back(path);
+                ans.push_back(path);
                 return;
             }
             for (int j = i; j < n; j++) {
-                if (isPalindrome(s, i, j)) {
-                    path.emplace_back(s.substr(i, j - i + 1));
+                string str = s.substr(i, j - i + 1);
+                if (isPalindrome(str)) {
+                    path.push_back(str);
                     dfs(j + 1);
                     path.pop_back();
                 }
