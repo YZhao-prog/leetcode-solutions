@@ -195,6 +195,13 @@
    "Bracket Sequences"
   ]
  },
+ "house-robber": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Dynamic Programming"
+  ]
+ },
  "insufficient-nodes-in-root-to-leaf-paths": {
   "difficulty": "Medium",
   "topics": [

@@ -39,15 +39,15 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**75 problems solved** — 58 in Go, 44 in C++  
-20 Easy · 49 Medium · 6 Hard
+**76 problems solved** — 58 in Go, 45 in C++  
+20 Easy · 50 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Binary Tree | 30 | C++, Go |
 | Tree | 30 | C++, Go |
 | Depth-First Search | 26 | C++, Go |
-| Array | 22 | C++, Go |
+| Array | 23 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 18 | C++, Go |
 | Backtracking | 12 | C++, Go |
@@ -57,9 +57,9 @@ a solution file per language:
 | Binary Search Tree | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
+| Dynamic Programming | 4 | C++ |
 | String | 4 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
-| Dynamic Programming | 3 | C++ |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Matrix | 3 | C++, Go |
 | Sliding Window | 3 | C++ |
@@ -189,7 +189,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
-| [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | undefined |
+| [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -199,7 +199,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
-| [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | undefined |
+| [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
