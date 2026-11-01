@@ -39,7 +39,7 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**73 problems solved** — 58 in Go, 41 in C++  
+**73 problems solved** — 58 in Go, 42 in C++  
 20 Easy · 47 Medium · 6 Hard
 
 | Topic | Problems | Languages |
@@ -284,7 +284,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | undefined |
+| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,7 +296,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | undefined |
+| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,7 +306,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | undefined |
+| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,7 +320,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
-| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | undefined |
+| [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
