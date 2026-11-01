@@ -8,9 +8,6 @@ public:
             if (sum > n) {
                 return;
             }
-            if (9 - i + 1 < k - path.size()) {
-                return;
-            }
             if (path.size() == k) {
                 if (sum == n) {
                     ans.push_back(path);
