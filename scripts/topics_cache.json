@@ -578,6 +578,16 @@
    "Binary Tree"
   ]
  },
+ "target-sum": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Dynamic Programming",
+   "Backtracking",
+   "Knapsack Problem",
+   "0-1 Knapsack"
+  ]
+ },
  "trapping-rain-water": {
   "difficulty": "Hard",
   "topics": [
