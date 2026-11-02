@@ -279,6 +279,15 @@
    "Longest Common Subsequence"
   ]
  },
+ "longest-increasing-subsequence": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Binary Search",
+   "Dynamic Programming",
+   "Longest Increasing Subsequence"
+  ]
+ },
  "longest-substring-without-repeating-characters": {
   "difficulty": "Medium",
   "topics": [
