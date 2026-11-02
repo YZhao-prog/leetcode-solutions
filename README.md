@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**79 problems solved** — 58 in Go, 48 in C++  
-20 Easy · 53 Medium · 6 Hard
+**80 problems solved** — 58 in Go, 49 in C++  
+20 Easy · 54 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -53,12 +53,12 @@ a solution file per language:
 | Backtracking | 13 | C++, Go |
 | Two Pointers | 12 | C++, Go |
 | Binary Search | 10 | C++, Go |
+| Dynamic Programming | 8 | C++ |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
-| Dynamic Programming | 7 | C++ |
 | Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
-| String | 5 | C++, Go |
+| String | 6 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Matrix | 3 | C++, Go |
@@ -156,7 +156,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
-| [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | undefined |
+| [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Backtracking
@@ -207,7 +207,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
-| [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | undefined |
+| [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
