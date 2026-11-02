@@ -156,6 +156,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+| [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,4 +372,8 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+## 最长公共子序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | undefined |
 <!---LeetCode Topics End-->
