@@ -67,6 +67,16 @@
    "Binary Tree"
   ]
  },
+ "coin-change": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Dynamic Programming",
+   "Breadth-First Search",
+   "Knapsack Problem",
+   "Complete Knapsack"
+  ]
+ },
  "combination-sum": {
   "difficulty": "Medium",
   "topics": [
