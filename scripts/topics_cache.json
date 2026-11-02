@@ -264,6 +264,14 @@
    "Floyd's Cycle Finding Algorithm"
   ]
  },
+ "longest-common-subsequence": {
+  "difficulty": "Medium",
+  "topics": [
+   "String",
+   "Dynamic Programming",
+   "Longest Common Subsequence"
+  ]
+ },
  "longest-substring-without-repeating-characters": {
   "difficulty": "Medium",
   "topics": [
