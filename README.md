@@ -39,21 +39,21 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**82 problems solved** — 58 in Go, 51 in C++  
-20 Easy · 56 Medium · 6 Hard
+**83 problems solved** — 58 in Go, 52 in C++  
+20 Easy · 56 Medium · 7 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Binary Tree | 30 | C++, Go |
 | Tree | 30 | C++, Go |
-| Array | 27 | C++, Go |
+| Array | 28 | C++, Go |
 | Depth-First Search | 26 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 19 | C++, Go |
 | Backtracking | 13 | C++, Go |
 | Two Pointers | 12 | C++, Go |
 | Binary Search | 11 | C++, Go |
-| Dynamic Programming | 10 | C++ |
+| Dynamic Programming | 11 | C++ |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
@@ -198,7 +198,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
-| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -214,7 +214,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
-| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
