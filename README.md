@@ -39,21 +39,21 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**81 problems solved** — 58 in Go, 50 in C++  
-20 Easy · 55 Medium · 6 Hard
+**82 problems solved** — 58 in Go, 51 in C++  
+20 Easy · 56 Medium · 6 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Binary Tree | 30 | C++, Go |
 | Tree | 30 | C++, Go |
-| Array | 26 | C++, Go |
+| Array | 27 | C++, Go |
 | Depth-First Search | 26 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 19 | C++, Go |
 | Backtracking | 13 | C++, Go |
 | Two Pointers | 12 | C++, Go |
 | Binary Search | 11 | C++, Go |
-| Dynamic Programming | 9 | C++ |
+| Dynamic Programming | 10 | C++ |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
@@ -65,6 +65,7 @@ a solution file per language:
 | Sliding Window | 3 | C++ |
 | Sorting | 3 | C++, Go |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
+| Greedy | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
 | Math | 2 | Go |
 | Prefix Sum | 2 | C++ |
@@ -73,7 +74,6 @@ a solution file per language:
 | Bracket Sequences | 1 | C++ |
 | Complete Knapsack | 1 | C++ |
 | DP on Trees | 1 | Go |
-| Greedy | 1 | C++ |
 | Longest Common Subsequence | 1 | C++ |
 | Longest Increasing Subsequence | 1 | C++ |
 | Monotonic Stack | 1 | C++ |
@@ -195,7 +195,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -211,7 +211,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -243,7 +243,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
