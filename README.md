@@ -207,6 +207,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -394,4 +396,12 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## 多边形
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
+## 三角剖分
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 <!---LeetCode Topics End-->
