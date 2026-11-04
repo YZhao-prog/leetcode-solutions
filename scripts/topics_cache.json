@@ -303,6 +303,13 @@
    "Longest Increasing Subsequence"
   ]
  },
+ "longest-palindromic-subsequence": {
+  "difficulty": "Medium",
+  "topics": [
+   "String",
+   "Dynamic Programming"
+  ]
+ },
  "longest-substring-without-repeating-characters": {
   "difficulty": "Medium",
   "topics": [

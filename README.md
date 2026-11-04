@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**83 problems solved** — 58 in Go, 52 in C++  
-20 Easy · 56 Medium · 7 Hard
+**84 problems solved** — 58 in Go, 53 in C++  
+20 Easy · 57 Medium · 7 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -51,14 +51,14 @@ a solution file per language:
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 19 | C++, Go |
 | Backtracking | 13 | C++, Go |
+| Dynamic Programming | 12 | C++ |
 | Two Pointers | 12 | C++, Go |
 | Binary Search | 11 | C++, Go |
-| Dynamic Programming | 11 | C++ |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
+| String | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
 | Stack | 6 | C++, Go |
-| String | 6 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Matrix | 3 | C++, Go |
@@ -159,7 +159,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
-| [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | undefined |
+| [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -220,7 +220,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0300-longest-increasing-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
-| [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | undefined |
+| [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
