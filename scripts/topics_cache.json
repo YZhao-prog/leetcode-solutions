@@ -54,6 +54,16 @@
    "Binary Tree"
   ]
  },
+ "binary-tree-maximum-path-sum": {
+  "difficulty": "Hard",
+  "topics": [
+   "Dynamic Programming",
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree",
+   "DP on Trees"
+  ]
+ },
  "binary-tree-right-side-view": {
   "difficulty": "Medium",
   "topics": [
