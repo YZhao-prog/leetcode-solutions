@@ -150,6 +150,15 @@
    "Linked List"
   ]
  },
+ "diameter-of-binary-tree": {
+  "difficulty": "Easy",
+  "topics": [
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree",
+   "DP on Trees"
+  ]
+ },
  "double-a-number-represented-as-a-linked-list": {
   "difficulty": "Medium",
   "topics": [

@@ -39,15 +39,15 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**85 problems solved** — 58 in Go, 54 in C++  
-20 Easy · 58 Medium · 7 Hard
+**86 problems solved** — 58 in Go, 55 in C++  
+21 Easy · 58 Medium · 7 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Binary Tree | 30 | C++, Go |
-| Tree | 30 | C++, Go |
+| Binary Tree | 31 | C++, Go |
+| Tree | 31 | C++, Go |
 | Array | 29 | C++, Go |
-| Depth-First Search | 26 | C++, Go |
+| Depth-First Search | 27 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 19 | C++, Go |
 | Backtracking | 13 | C++, Go |
@@ -64,6 +64,7 @@ a solution file per language:
 | Matrix | 3 | C++, Go |
 | Sliding Window | 3 | C++ |
 | Sorting | 3 | C++, Go |
+| DP on Trees | 2 | C++, Go |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Greedy | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
@@ -73,7 +74,6 @@ a solution file per language:
 | Bit Manipulation | 1 | C++, Go |
 | Bracket Sequences | 1 | C++ |
 | Complete Knapsack | 1 | C++ |
-| DP on Trees | 1 | Go |
 | Longest Common Subsequence | 1 | C++ |
 | Longest Increasing Subsequence | 1 | C++ |
 | Monotonic Stack | 1 | C++ |
@@ -321,7 +321,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
-| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,7 +334,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
-| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,7 +360,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
-| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,5 +412,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## 树形 DP
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
