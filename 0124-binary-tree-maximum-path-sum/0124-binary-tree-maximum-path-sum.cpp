@@ -17,8 +17,8 @@ public:
             if (!node) return 0;
             int l = dfs(node->left);
             int r = dfs(node->right);
-            ans = max({ans, l + r + node->val, l + node->val, r + node->val, node->val});
-            return max(max(l, r) + node->val, node->val);
+            ans = max(ans, l + r + node->val);
+            return max(l, r) + node->val > 0 ? max(l, r) + node->val : 0;
         };
         dfs(root);
         return ans;
