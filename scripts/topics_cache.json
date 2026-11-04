@@ -418,6 +418,15 @@
    "Binary Tree"
   ]
  },
+ "minimum-score-triangulation-of-polygon": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Dynamic Programming",
+   "Triangulation",
+   "Polygons"
+  ]
+ },
  "minimum-size-subarray-sum": {
   "difficulty": "Medium",
   "topics": [
