@@ -7,7 +7,7 @@ public:
     LRUCache(int capacity): max_sz(capacity) {}
     
     int get(int key) {
-        if (cache_map.count(key) == 0) {
+        if (!cache_map.contains(key)) {
             return -1;
         }
         auto it = cache_map[key];
@@ -16,7 +16,7 @@ public:
     }
     
     void put(int key, int value) {
-        if (cache_map.count(key) != 0) {
+        if (cache_map.contains(key)) {
             auto it = cache_map[key];
             it->second = value;
             cache_list.splice(cache_list.begin(), cache_list, it);
