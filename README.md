@@ -157,6 +157,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +311,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
@@ -448,4 +450,12 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
 <!---LeetCode Topics End-->
