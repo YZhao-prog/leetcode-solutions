@@ -619,6 +619,17 @@
    "Binary Search"
   ]
  },
+ "sliding-window-maximum": {
+  "difficulty": "Hard",
+  "topics": [
+   "Array",
+   "Queue",
+   "Sliding Window",
+   "Heap (Priority Queue)",
+   "Monotonic Queue",
+   "Range Minimum/Maximum Query"
+  ]
+ },
  "subarray-product-less-than-k": {
   "difficulty": "Medium",
   "topics": [
