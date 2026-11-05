@@ -39,14 +39,14 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**88 problems solved** — 58 in Go, 57 in C++  
-21 Easy · 59 Medium · 8 Hard
+**89 problems solved** — 58 in C++, 58 in Go  
+21 Easy · 60 Medium · 8 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Binary Tree | 33 | C++, Go |
 | Tree | 33 | C++, Go |
-| Array | 29 | C++, Go |
+| Array | 30 | C++, Go |
 | Depth-First Search | 29 | C++, Go |
 | Linked List | 20 | C++, Go |
 | Breadth-First Search | 19 | C++, Go |
@@ -56,9 +56,9 @@ a solution file per language:
 | Binary Search | 11 | C++, Go |
 | Hash Table | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
+| Stack | 7 | C++, Go |
 | String | 7 | C++, Go |
 | Recursion | 6 | C++, Go |
-| Stack | 6 | C++, Go |
 | DP on Trees | 4 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
 | Lowest Common Ancestor | 3 | C++, Go |
@@ -69,6 +69,7 @@ a solution file per language:
 | Greedy | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
 | Math | 2 | Go |
+| Monotonic Stack | 2 | C++ |
 | Prefix Sum | 2 | C++ |
 | 0-1 Knapsack | 1 | C++ |
 | Bit Manipulation | 1 | C++, Go |
@@ -76,7 +77,6 @@ a solution file per language:
 | Complete Knapsack | 1 | C++ |
 | Longest Common Subsequence | 1 | C++ |
 | Longest Increasing Subsequence | 1 | C++ |
-| Monotonic Stack | 1 | C++ |
 | Polygons | 1 | C++ |
 | Triangulation | 1 | C++ |
 
@@ -209,7 +209,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
-| [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | undefined |
+| [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -260,12 +260,12 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
-| [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | undefined |
+| [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
-| [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | undefined |
+| [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

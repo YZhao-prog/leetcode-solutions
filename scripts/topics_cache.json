@@ -146,6 +146,14 @@
    "Binary Tree"
   ]
  },
+ "daily-temperatures": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Stack",
+   "Monotonic Stack"
+  ]
+ },
  "delete-node-in-a-linked-list": {
   "difficulty": "Medium",
   "topics": [
