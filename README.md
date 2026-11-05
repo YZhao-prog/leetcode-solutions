@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**90 problems solved** — 59 in C++, 58 in Go  
-21 Easy · 60 Medium · 9 Hard
+**91 problems solved** — 60 in C++, 58 in Go  
+21 Easy · 61 Medium · 9 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -48,13 +48,13 @@ a solution file per language:
 | Tree | 33 | C++, Go |
 | Array | 31 | C++, Go |
 | Depth-First Search | 29 | C++, Go |
-| Linked List | 20 | C++, Go |
+| Linked List | 21 | C++, Go |
 | Breadth-First Search | 19 | C++, Go |
 | Dynamic Programming | 15 | C++ |
 | Backtracking | 13 | C++, Go |
 | Two Pointers | 12 | C++, Go |
 | Binary Search | 11 | C++, Go |
-| Hash Table | 8 | C++, Go |
+| Hash Table | 9 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
 | Stack | 7 | C++, Go |
 | String | 7 | C++, Go |
@@ -75,6 +75,8 @@ a solution file per language:
 | Bit Manipulation | 1 | C++, Go |
 | Bracket Sequences | 1 | C++ |
 | Complete Knapsack | 1 | C++ |
+| Design | 1 | C++ |
+| Doubly-Linked List | 1 | C++ |
 | Heap (Priority Queue) | 1 | C++ |
 | Longest Common Subsequence | 1 | C++ |
 | Longest Increasing Subsequence | 1 | C++ |
@@ -157,7 +159,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,7 +313,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
-| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
@@ -453,9 +455,9 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | undefined |
+| [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->

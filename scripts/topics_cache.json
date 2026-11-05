@@ -389,6 +389,15 @@
    "DP on Trees"
   ]
  },
+ "lru-cache": {
+  "difficulty": "Medium",
+  "topics": [
+   "Hash Table",
+   "Linked List",
+   "Design",
+   "Doubly-Linked List"
+  ]
+ },
  "maximum-depth-of-binary-tree": {
   "difficulty": "Easy",
   "topics": [
