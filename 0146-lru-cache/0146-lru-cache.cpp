@@ -11,19 +11,15 @@ public:
             return -1;
         }
         auto it = cache_map[key];
-        int val = it->second;
-        cache_list.erase(it);
-        cache_list.push_front({key, val});
-        cache_map[key] = cache_list.begin();
-        return val;
+        cache_list.splice(cache_list.begin(), cache_list, it);
+        return it->second;
     }
     
     void put(int key, int value) {
         if (cache_map.count(key) != 0) {
             auto it = cache_map[key];
-            cache_list.erase(it);
-            cache_list.push_front({key, value});
-            cache_map[key] = cache_list.begin();
+            it->second = value;
+            cache_list.splice(cache_list.begin(), cache_list, it);
             return;
         }
         cache_list.push_front({key, value});
