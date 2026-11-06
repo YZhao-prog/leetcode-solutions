@@ -398,6 +398,16 @@
    "Doubly-Linked List"
   ]
  },
+ "making-a-large-island": {
+  "difficulty": "Hard",
+  "topics": [
+   "Array",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Union-Find",
+   "Matrix"
+  ]
+ },
  "max-area-of-island": {
   "difficulty": "Medium",
   "topics": [

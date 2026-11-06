@@ -39,16 +39,16 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**93 problems solved** — 62 in C++, 58 in Go  
-21 Easy · 63 Medium · 9 Hard
+**94 problems solved** — 63 in C++, 58 in Go  
+21 Easy · 63 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Array | 33 | C++, Go |
+| Array | 34 | C++, Go |
 | Binary Tree | 33 | C++, Go |
 | Tree | 33 | C++, Go |
-| Depth-First Search | 31 | C++, Go |
-| Breadth-First Search | 21 | C++, Go |
+| Depth-First Search | 32 | C++, Go |
+| Breadth-First Search | 22 | C++, Go |
 | Linked List | 21 | C++, Go |
 | Dynamic Programming | 15 | C++ |
 | Backtracking | 13 | C++, Go |
@@ -58,20 +58,20 @@ a solution file per language:
 | Binary Search Tree | 7 | C++, Go |
 | Stack | 7 | C++, Go |
 | String | 7 | C++, Go |
+| Matrix | 6 | C++, Go |
 | Recursion | 6 | C++, Go |
-| Matrix | 5 | C++, Go |
 | DP on Trees | 4 | C++, Go |
 | Sliding Window | 4 | C++ |
 | Binary Lifting | 3 | C++, Go |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Sorting | 3 | C++, Go |
+| Union-Find | 3 | C++ |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Greedy | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
 | Math | 2 | Go |
 | Monotonic Stack | 2 | C++ |
 | Prefix Sum | 2 | C++ |
-| Union-Find | 2 | C++ |
 | 0-1 Knapsack | 1 | C++ |
 | Bit Manipulation | 1 | C++, Go |
 | Bracket Sequences | 1 | C++ |
@@ -221,7 +221,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
-| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | undefined |
+| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -247,7 +247,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | undefined |
+| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,7 +363,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | undefined |
+| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,7 +377,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | undefined |
+| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,5 +478,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | undefined |
+| [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 <!---LeetCode Topics End-->
