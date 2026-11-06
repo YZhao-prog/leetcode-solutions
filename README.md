@@ -210,6 +210,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -241,6 +242,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +351,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0110-balanced-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | undefined |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
@@ -363,6 +366,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | undefined |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Binary Tree
@@ -460,4 +464,8 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | undefined |
 <!---LeetCode Topics End-->
