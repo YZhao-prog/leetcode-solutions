@@ -398,6 +398,16 @@
    "Doubly-Linked List"
   ]
  },
+ "max-area-of-island": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Union-Find",
+   "Matrix"
+  ]
+ },
  "maximum-depth-of-binary-tree": {
   "difficulty": "Easy",
   "topics": [
