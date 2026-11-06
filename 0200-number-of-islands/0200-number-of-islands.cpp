@@ -10,7 +10,6 @@ public:
         vis[x][y] = 1;
         while (!q.empty()) {
             auto [x, y] = q.front();
-            cout << x << y << " ";
             q.pop();
             for (int k = 0; k < 4; k++) {
                 int nx = x + d[k][0], ny = y + d[k][1];
