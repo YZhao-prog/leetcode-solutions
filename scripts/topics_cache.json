@@ -490,6 +490,16 @@
    "Algorithm X"
   ]
  },
+ "number-of-islands": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Union-Find",
+   "Matrix"
+  ]
+ },
  "palindrome-linked-list": {
   "difficulty": "Easy",
   "topics": [
