@@ -26,7 +26,6 @@ public:
             for (int j = 0; j < m; j++) {
                 if (!vis[i][j] && grid[i][j]) {
                     ans = max(ans, dfs(grid, i, j));
-                    cout << "\n";
                 }
             }
         }
