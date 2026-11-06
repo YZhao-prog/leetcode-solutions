@@ -4,7 +4,6 @@ private:
     vector<vector<int>> vis;
 public:
     int dfs(vector<vector<int>>& grid, int x, int y) {
-        cout << x << y << " ";
         int n = grid.size(), m = grid[0].size();
         int size = 1;
         vis[x][y] = 1;
