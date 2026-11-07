@@ -679,6 +679,14 @@
    "Range Minimum/Maximum Query"
   ]
  },
+ "spiral-matrix": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Matrix",
+   "Simulation"
+  ]
+ },
  "subarray-product-less-than-k": {
   "difficulty": "Medium",
   "topics": [
