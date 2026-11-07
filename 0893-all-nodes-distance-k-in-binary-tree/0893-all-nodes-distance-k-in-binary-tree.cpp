@@ -35,6 +35,7 @@ public:
                 if (dis == k) {
                     ans.push_back(node->val);
                 }
+                if (dis > k) return;
                 if (node->left && !vis.count(node->left)) {
                     q.push({node->left, dis + 1});
                 }
