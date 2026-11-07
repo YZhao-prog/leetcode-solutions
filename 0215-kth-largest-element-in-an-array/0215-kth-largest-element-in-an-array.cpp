@@ -2,7 +2,7 @@ class Solution {
 public:
     int quickSelect(vector<int>& nums, int k, int l, int r) {
         if (l > r) {
-            return -1;
+            return INT_MIN;
         }
         swap(nums[l], nums[l + rand() % (r - l + 1)]);
         int x = nums[l];
