@@ -39,12 +39,12 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**96 problems solved** — 65 in C++, 58 in Go  
-21 Easy · 65 Medium · 10 Hard
+**97 problems solved** — 66 in C++, 58 in Go  
+21 Easy · 66 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Array | 35 | C++, Go |
+| Array | 36 | C++, Go |
 | Binary Tree | 34 | C++, Go |
 | Tree | 34 | C++, Go |
 | Depth-First Search | 33 | C++, Go |
@@ -62,12 +62,13 @@ a solution file per language:
 | Recursion | 6 | C++, Go |
 | DP on Trees | 4 | C++, Go |
 | Sliding Window | 4 | C++ |
+| Sorting | 4 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
 | Lowest Common Ancestor | 3 | C++, Go |
-| Sorting | 3 | C++, Go |
 | Union-Find | 3 | C++ |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Greedy | 2 | C++ |
+| Heap (Priority Queue) | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
 | Math | 2 | Go |
 | Monotonic Stack | 2 | C++ |
@@ -77,13 +78,14 @@ a solution file per language:
 | Bracket Sequences | 1 | C++ |
 | Complete Knapsack | 1 | C++ |
 | Design | 1 | C++ |
+| Divide and Conquer | 1 | C++ |
 | Doubly-Linked List | 1 | C++ |
-| Heap (Priority Queue) | 1 | C++ |
 | Longest Common Subsequence | 1 | C++ |
 | Longest Increasing Subsequence | 1 | C++ |
 | Monotonic Queue | 1 | C++ |
 | Polygons | 1 | C++ |
 | Queue | 1 | C++ |
+| Quickselect | 1 | C++ |
 | Range Minimum/Maximum Query | 1 | C++ |
 | Simulation | 1 | C++ |
 | Triangulation | 1 | C++ |
@@ -216,7 +218,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -258,7 +260,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
-| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,7 +472,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## 区间最值查询
 | Problem Name | Difficulty |
@@ -497,9 +499,9 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
