@@ -39,22 +39,22 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**94 problems solved** — 63 in C++, 58 in Go  
-21 Easy · 63 Medium · 10 Hard
+**95 problems solved** — 64 in C++, 58 in Go  
+21 Easy · 64 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Array | 34 | C++, Go |
-| Binary Tree | 33 | C++, Go |
-| Tree | 33 | C++, Go |
-| Depth-First Search | 32 | C++, Go |
-| Breadth-First Search | 22 | C++, Go |
+| Binary Tree | 34 | C++, Go |
+| Tree | 34 | C++, Go |
+| Depth-First Search | 33 | C++, Go |
+| Breadth-First Search | 23 | C++, Go |
 | Linked List | 21 | C++, Go |
 | Dynamic Programming | 15 | C++ |
 | Backtracking | 13 | C++, Go |
 | Two Pointers | 12 | C++, Go |
 | Binary Search | 11 | C++, Go |
-| Hash Table | 9 | C++, Go |
+| Hash Table | 10 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
 | Stack | 7 | C++, Go |
 | String | 7 | C++, Go |
@@ -161,7 +161,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
-| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | undefined |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,7 +347,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0337-house-robber-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
-| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | undefined |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,7 +366,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
-| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | undefined |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,7 +381,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
-| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | undefined |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,7 +399,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0337-house-robber-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
-| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | undefined |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

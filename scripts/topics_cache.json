@@ -15,6 +15,16 @@
    "Stack"
   ]
  },
+ "all-nodes-distance-k-in-binary-tree": {
+  "difficulty": "Medium",
+  "topics": [
+   "Hash Table",
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
  "balanced-binary-tree": {
   "difficulty": "Easy",
   "topics": [
