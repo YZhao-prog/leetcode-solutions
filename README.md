@@ -171,6 +171,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0003-longest-substring-without-repeating-characters](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 | [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
@@ -271,6 +272,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0011-container-with-most-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -519,4 +521,20 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+## KMP 算法
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+## Boyer–Moore 算法
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+## 扩展 KMP
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 <!---LeetCode Topics End-->
