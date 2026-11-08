@@ -255,6 +255,17 @@
    "Binary Search"
   ]
  },
+ "find-the-index-of-the-first-occurrence-in-a-string": {
+  "difficulty": "Easy",
+  "topics": [
+   "Two Pointers",
+   "String",
+   "String Matching",
+   "Z Algorithm",
+   "Knuth\u2013Morris\u2013Pratt Algorithm",
+   "Boyer\u2013Moore String-Search Algorithm"
+  ]
+ },
  "flip-equivalent-binary-trees": {
   "difficulty": "Medium",
   "topics": [
