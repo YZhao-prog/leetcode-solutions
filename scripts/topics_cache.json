@@ -471,6 +471,17 @@
    "Stack"
   ]
  },
+ "meeting-rooms-ii": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Two Pointers",
+   "Greedy",
+   "Sorting",
+   "Heap (Priority Queue)",
+   "Prefix Sum"
+  ]
+ },
  "merge-in-between-linked-lists": {
   "difficulty": "Medium",
   "topics": [
