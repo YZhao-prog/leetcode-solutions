@@ -215,6 +215,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | undefined |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -272,6 +273,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | undefined |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -504,4 +506,8 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | undefined |
 <!---LeetCode Topics End-->
