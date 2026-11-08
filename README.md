@@ -173,6 +173,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Backtracking
@@ -285,6 +286,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | undefined |
 | [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -319,6 +321,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
