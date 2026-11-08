@@ -164,6 +164,14 @@
    "Monotonic Stack"
   ]
  },
+ "decode-string": {
+  "difficulty": "Medium",
+  "topics": [
+   "String",
+   "Stack",
+   "Recursion"
+  ]
+ },
  "delete-node-in-a-linked-list": {
   "difficulty": "Medium",
   "topics": [

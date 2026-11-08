@@ -39,8 +39,8 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**98 problems solved** — 67 in C++, 58 in Go  
-21 Easy · 67 Medium · 10 Hard
+**99 problems solved** — 68 in C++, 58 in Go  
+21 Easy · 68 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
@@ -55,11 +55,11 @@ a solution file per language:
 | Two Pointers | 13 | C++, Go |
 | Binary Search | 11 | C++, Go |
 | Hash Table | 10 | C++, Go |
+| Stack | 8 | C++, Go |
+| String | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
 | Matrix | 7 | C++, Go |
-| Stack | 7 | C++, Go |
-| String | 7 | C++, Go |
-| Recursion | 6 | C++, Go |
+| Recursion | 7 | C++, Go |
 | DP on Trees | 4 | C++, Go |
 | Sliding Window | 4 | C++ |
 | Sorting | 4 | C++, Go |
@@ -173,7 +173,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0022-generate-parentheses](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
-| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | undefined |
+| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Backtracking
@@ -286,7 +286,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
-| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | undefined |
+| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -321,7 +321,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0025-reverse-nodes-in-k-group](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
-| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | undefined |
+| [0394-decode-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
