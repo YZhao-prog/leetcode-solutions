@@ -646,6 +646,14 @@
    "Recursion"
   ]
  },
+ "rotate-array": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Math",
+   "Two Pointers"
+  ]
+ },
  "same-tree": {
   "difficulty": "Easy",
   "topics": [

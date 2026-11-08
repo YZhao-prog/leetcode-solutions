@@ -39,12 +39,12 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**97 problems solved** — 66 in C++, 58 in Go  
-21 Easy · 66 Medium · 10 Hard
+**98 problems solved** — 67 in C++, 58 in Go  
+21 Easy · 67 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Array | 36 | C++, Go |
+| Array | 37 | C++, Go |
 | Binary Tree | 34 | C++, Go |
 | Tree | 34 | C++, Go |
 | Depth-First Search | 33 | C++, Go |
@@ -52,7 +52,7 @@ a solution file per language:
 | Linked List | 21 | C++, Go |
 | Dynamic Programming | 15 | C++ |
 | Backtracking | 13 | C++, Go |
-| Two Pointers | 12 | C++, Go |
+| Two Pointers | 13 | C++, Go |
 | Binary Search | 11 | C++, Go |
 | Hash Table | 10 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
@@ -65,12 +65,12 @@ a solution file per language:
 | Sorting | 4 | C++, Go |
 | Binary Lifting | 3 | C++, Go |
 | Lowest Common Ancestor | 3 | C++, Go |
+| Math | 3 | C++, Go |
 | Union-Find | 3 | C++ |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Greedy | 2 | C++ |
 | Heap (Priority Queue) | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
-| Math | 2 | Go |
 | Monotonic Stack | 2 | C++ |
 | Prefix Sum | 2 | C++ |
 | 0-1 Knapsack | 1 | C++ |
@@ -215,7 +215,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
-| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | undefined |
+| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -273,7 +273,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0141-linked-list-cycle](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
-| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | undefined |
+| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0908-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -509,5 +509,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | undefined |
+| [0189-rotate-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
