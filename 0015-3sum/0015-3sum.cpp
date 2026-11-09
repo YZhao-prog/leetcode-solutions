@@ -6,6 +6,8 @@ public:
         sort(nums.begin(), nums.end());
         for (int i = 0; i < n - 2; i++) {
             if (i && nums[i] == nums[i - 1]) continue;
+            if (nums[i] + nums[n - 2] + nums[n - 1] < 0) continue;
+            if (nums[i] + nums[i + 1] + nums[i + 2] > 0) continue;
             int j = i + 1, k = n - 1;
             while (j < k) {
                 int sum = nums[i] + nums[j] + nums[k];
