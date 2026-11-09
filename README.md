@@ -39,16 +39,16 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**102 problems solved** — 71 in C++, 58 in Go  
-22 Easy · 70 Medium · 10 Hard
+**103 problems solved** — 72 in C++, 58 in Go  
+22 Easy · 71 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Array | 39 | C++, Go |
 | Binary Tree | 34 | C++, Go |
+| Depth-First Search | 34 | C++, Go |
 | Tree | 34 | C++, Go |
-| Depth-First Search | 33 | C++, Go |
-| Breadth-First Search | 23 | C++, Go |
+| Breadth-First Search | 24 | C++, Go |
 | Linked List | 21 | C++, Go |
 | Dynamic Programming | 15 | C++ |
 | Two Pointers | 15 | C++, Go |
@@ -79,8 +79,10 @@ a solution file per language:
 | Bracket Sequences | 1 | C++ |
 | Complete Knapsack | 1 | C++ |
 | Design | 1 | C++ |
+| Directed Acyclic Graph | 1 | C++ |
 | Divide and Conquer | 1 | C++ |
 | Doubly-Linked List | 1 | C++ |
+| Graph Theory | 1 | C++ |
 | Knuth–Morris–Pratt Algorithm | 1 | C++ |
 | Longest Common Subsequence | 1 | C++ |
 | Longest Increasing Subsequence | 1 | C++ |
@@ -92,6 +94,7 @@ a solution file per language:
 | Range Minimum/Maximum Query | 1 | C++ |
 | Simulation | 1 | C++ |
 | String Matching | 1 | C++ |
+| Topological Sort | 1 | C++ |
 | Triangulation | 1 | C++ |
 | Z Algorithm | 1 | C++ |
 
@@ -385,7 +388,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0124-binary-tree-maximum-path-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
-| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | undefined |
+| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
@@ -404,7 +407,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0104-maximum-depth-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
-| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | undefined |
+| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -553,13 +556,13 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | undefined |
+| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | undefined |
+| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 ## 有向无环图
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | undefined |
+| [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
