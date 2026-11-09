@@ -216,6 +216,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | undefined |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -268,6 +269,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 ## Two Pointers
@@ -541,4 +543,8 @@ g++ -std=c++2b main.cpp -o main && ./main
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## 快速排序
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | undefined |
 <!---LeetCode Topics End-->
