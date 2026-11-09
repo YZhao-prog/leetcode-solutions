@@ -499,6 +499,14 @@
    "Linked List"
   ]
  },
+ "merge-intervals": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Sorting",
+   "Quicksort"
+  ]
+ },
  "merge-two-binary-trees": {
   "difficulty": "Easy",
   "topics": [

@@ -39,12 +39,12 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**101 problems solved** — 70 in C++, 58 in Go  
-22 Easy · 69 Medium · 10 Hard
+**102 problems solved** — 71 in C++, 58 in Go  
+22 Easy · 70 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Array | 38 | C++, Go |
+| Array | 39 | C++, Go |
 | Binary Tree | 34 | C++, Go |
 | Tree | 34 | C++, Go |
 | Depth-First Search | 33 | C++, Go |
@@ -60,7 +60,7 @@ a solution file per language:
 | Binary Search Tree | 7 | C++, Go |
 | Matrix | 7 | C++, Go |
 | Recursion | 7 | C++, Go |
-| Sorting | 5 | C++, Go |
+| Sorting | 6 | C++, Go |
 | DP on Trees | 4 | C++, Go |
 | Sliding Window | 4 | C++ |
 | Binary Lifting | 3 | C++, Go |
@@ -88,6 +88,7 @@ a solution file per language:
 | Polygons | 1 | C++ |
 | Queue | 1 | C++ |
 | Quickselect | 1 | C++ |
+| Quicksort | 1 | C++ |
 | Range Minimum/Maximum Query | 1 | C++ |
 | Simulation | 1 | C++ |
 | String Matching | 1 | C++ |
@@ -216,7 +217,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
-| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | undefined |
+| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -269,7 +270,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0015-3sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
-| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | undefined |
+| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 ## Two Pointers
@@ -546,5 +547,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## 快速排序
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | undefined |
+| [0056-merge-intervals](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
