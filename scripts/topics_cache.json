@@ -587,6 +587,14 @@
    "Algorithm X"
   ]
  },
+ "nearest-exit-from-entrance-in-maze": {
+  "difficulty": "Medium",
+  "topics": [
+   "Array",
+   "Breadth-First Search",
+   "Matrix"
+  ]
+ },
  "number-of-islands": {
   "difficulty": "Medium",
   "topics": [

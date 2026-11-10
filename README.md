@@ -39,16 +39,16 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**104 problems solved** — 73 in C++, 58 in Go  
-22 Easy · 72 Medium · 10 Hard
+**105 problems solved** — 74 in C++, 58 in Go  
+22 Easy · 73 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
-| Array | 39 | C++, Go |
+| Array | 40 | C++, Go |
 | Depth-First Search | 35 | C++, Go |
 | Binary Tree | 34 | C++, Go |
 | Tree | 34 | C++, Go |
-| Breadth-First Search | 25 | C++, Go |
+| Breadth-First Search | 26 | C++, Go |
 | Linked List | 21 | C++, Go |
 | Dynamic Programming | 15 | C++ |
 | Two Pointers | 15 | C++, Go |
@@ -56,9 +56,9 @@ a solution file per language:
 | Binary Search | 11 | C++, Go |
 | Hash Table | 10 | C++, Go |
 | String | 9 | C++, Go |
+| Matrix | 8 | C++, Go |
 | Stack | 8 | C++, Go |
 | Binary Search Tree | 7 | C++, Go |
-| Matrix | 7 | C++, Go |
 | Recursion | 7 | C++, Go |
 | Sorting | 6 | C++, Go |
 | DP on Trees | 4 | C++, Go |
@@ -242,7 +242,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | Medium |
-| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,7 +269,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
-| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,7 +417,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
-| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
