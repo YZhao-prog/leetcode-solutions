@@ -242,6 +242,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0739-daily-temperatures](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | Medium |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +269,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0200-number-of-islands](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +417,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
