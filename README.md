@@ -400,6 +400,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -418,6 +419,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -508,6 +510,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## 区间最值查询
 | Problem Name | Difficulty |
@@ -568,6 +571,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -581,5 +585,10 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
+## Dijkstra 算法
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
 <!---LeetCode Topics End-->
