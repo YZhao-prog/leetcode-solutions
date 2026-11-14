@@ -39,16 +39,16 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**106 problems solved** — 75 in C++, 58 in Go  
-22 Easy · 74 Medium · 10 Hard
+**107 problems solved** — 76 in C++, 58 in Go  
+22 Easy · 75 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Array | 40 | C++, Go |
-| Depth-First Search | 36 | C++, Go |
+| Depth-First Search | 37 | C++, Go |
 | Binary Tree | 34 | C++, Go |
 | Tree | 34 | C++, Go |
-| Breadth-First Search | 27 | C++, Go |
+| Breadth-First Search | 28 | C++, Go |
 | Linked List | 21 | C++, Go |
 | Dynamic Programming | 16 | C++ |
 | Two Pointers | 15 | C++, Go |
@@ -61,11 +61,11 @@ a solution file per language:
 | Binary Search Tree | 7 | C++, Go |
 | Recursion | 7 | C++, Go |
 | Sorting | 6 | C++, Go |
+| Heap (Priority Queue) | 5 | C++ |
 | DP on Trees | 4 | C++, Go |
-| Heap (Priority Queue) | 4 | C++ |
+| Graph Theory | 4 | C++ |
 | Sliding Window | 4 | C++ |
 | Binary Lifting | 3 | C++, Go |
-| Graph Theory | 3 | C++ |
 | Greedy | 3 | C++ |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Math | 3 | C++, Go |
@@ -74,6 +74,7 @@ a solution file per language:
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
 | Knapsack Problem | 2 | C++ |
 | Monotonic Stack | 2 | C++ |
+| Shortest Path | 2 | C++ |
 | Topological Sort | 2 | C++ |
 | 0-1 Knapsack | 1 | C++ |
 | Bit Manipulation | 1 | C++, Go |
@@ -81,6 +82,7 @@ a solution file per language:
 | Bracket Sequences | 1 | C++ |
 | Complete Knapsack | 1 | C++ |
 | Design | 1 | C++ |
+| Dijkstra's Algorithm | 1 | C++ |
 | Directed Acyclic Graph | 1 | C++ |
 | Divide and Conquer | 1 | C++ |
 | Doubly-Linked List | 1 | C++ |
@@ -93,7 +95,6 @@ a solution file per language:
 | Quickselect | 1 | C++ |
 | Quicksort | 1 | C++ |
 | Range Minimum/Maximum Query | 1 | C++ |
-| Shortest Path | 1 | C++ |
 | Simulation | 1 | C++ |
 | String Matching | 1 | C++ |
 | Triangulation | 1 | C++ |
@@ -400,7 +401,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -419,7 +420,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -510,7 +511,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
-| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## 区间最值查询
 | Problem Name | Difficulty |
@@ -571,7 +572,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
-| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -585,10 +586,10 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra 算法
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | undefined |
+| [0744-network-delay-time](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0744-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->

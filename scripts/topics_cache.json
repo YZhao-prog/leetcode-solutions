@@ -606,6 +606,17 @@
    "Matrix"
   ]
  },
+ "network-delay-time": {
+  "difficulty": "Medium",
+  "topics": [
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Graph Theory",
+   "Heap (Priority Queue)",
+   "Shortest Path",
+   "Dijkstra's Algorithm"
+  ]
+ },
  "number-of-islands": {
   "difficulty": "Medium",
   "topics": [
