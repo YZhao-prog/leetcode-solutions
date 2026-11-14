@@ -7,7 +7,7 @@ public:
             auto now = dist;
             for (auto e: flights) {
                 int x = e[0], y = e[1], w = e[2];
-                if (now[x] + w < dist[y]) {
+                if (dist[y] > now[x] + w) {
                     dist[y] = now[x] + w;
                 }
             }
