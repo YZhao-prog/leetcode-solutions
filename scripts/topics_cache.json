@@ -91,6 +91,17 @@
    "Binary Tree"
   ]
  },
+ "cheapest-flights-within-k-stops": {
+  "difficulty": "Medium",
+  "topics": [
+   "Dynamic Programming",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Graph Theory",
+   "Heap (Priority Queue)",
+   "Shortest Path"
+  ]
+ },
  "closest-nodes-queries-in-a-binary-search-tree": {
   "difficulty": "Medium",
   "topics": [

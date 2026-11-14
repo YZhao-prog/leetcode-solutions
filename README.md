@@ -39,18 +39,18 @@ a solution file per language:
 
 <!-- AUTO-TOPICS:START -->
 
-**105 problems solved** — 74 in C++, 58 in Go  
-22 Easy · 73 Medium · 10 Hard
+**106 problems solved** — 75 in C++, 58 in Go  
+22 Easy · 74 Medium · 10 Hard
 
 | Topic | Problems | Languages |
 | --- | ---: | --- |
 | Array | 40 | C++, Go |
-| Depth-First Search | 35 | C++, Go |
+| Depth-First Search | 36 | C++, Go |
 | Binary Tree | 34 | C++, Go |
 | Tree | 34 | C++, Go |
-| Breadth-First Search | 26 | C++, Go |
+| Breadth-First Search | 27 | C++, Go |
 | Linked List | 21 | C++, Go |
-| Dynamic Programming | 15 | C++ |
+| Dynamic Programming | 16 | C++ |
 | Two Pointers | 15 | C++, Go |
 | Backtracking | 13 | C++, Go |
 | Binary Search | 11 | C++, Go |
@@ -62,16 +62,16 @@ a solution file per language:
 | Recursion | 7 | C++, Go |
 | Sorting | 6 | C++, Go |
 | DP on Trees | 4 | C++, Go |
+| Heap (Priority Queue) | 4 | C++ |
 | Sliding Window | 4 | C++ |
 | Binary Lifting | 3 | C++, Go |
+| Graph Theory | 3 | C++ |
 | Greedy | 3 | C++ |
-| Heap (Priority Queue) | 3 | C++ |
 | Lowest Common Ancestor | 3 | C++, Go |
 | Math | 3 | C++, Go |
 | Prefix Sum | 3 | C++ |
 | Union-Find | 3 | C++ |
 | Floyd's Cycle Finding Algorithm | 2 | C++, Go |
-| Graph Theory | 2 | C++ |
 | Knapsack Problem | 2 | C++ |
 | Monotonic Stack | 2 | C++ |
 | Topological Sort | 2 | C++ |
@@ -93,6 +93,7 @@ a solution file per language:
 | Quickselect | 1 | C++ |
 | Quicksort | 1 | C++ |
 | Range Minimum/Maximum Query | 1 | C++ |
+| Shortest Path | 1 | C++ |
 | Simulation | 1 | C++ |
 | String Matching | 1 | C++ |
 | Triangulation | 1 | C++ |
@@ -259,7 +260,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0337-house-robber-iii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0494-target-sum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
-| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | undefined |
+| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1111-minimum-score-triangulation-of-polygon/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/YZhao-prog/leetcode-solutions/tree/main/1250-longest-common-subsequence/) | Medium |
 ## Matrix
@@ -399,7 +400,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | undefined |
+| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -417,7 +418,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0322-coin-change](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
-| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | undefined |
+| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 | [0854-making-a-large-island](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0854-making-a-large-island/) | Hard |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0893-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/YZhao-prog/leetcode-solutions/tree/main/2038-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -507,7 +508,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | [0215-kth-largest-element-in-an-array](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
-| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | undefined |
+| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## 区间最值查询
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -567,7 +568,7 @@ g++ -std=c++2b main.cpp -o main && ./main
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
-| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | undefined |
+| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,5 +581,5 @@ g++ -std=c++2b main.cpp -o main && ./main
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | undefined |
+| [0803-cheapest-flights-within-k-stops](https://github.com/YZhao-prog/leetcode-solutions/tree/main/0803-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
